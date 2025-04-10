@@ -22,6 +22,6 @@ b = [1, 34, 62, 2, 6, 11]
 
 # b.pop(3)
 
-b.remove(11)
+# b.remove(11)
 
 print(b)

@@ -11,5 +11,5 @@ print(s)
 
 print(len(s))
 
-s.remove(1)
-print(s)
+# s.remove(1)
+# print(s)

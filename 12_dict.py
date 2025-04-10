@@ -12,4 +12,4 @@ marks.update({"Harry": 99})
 
 print(marks)
 
-print(marks.get("Rohit"))
+# print(marks.get("Rohit"))
